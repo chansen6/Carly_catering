@@ -32,7 +32,7 @@ public class JCarlysCatering extends JFrame implements ItemListener, ActionListe
 	JButton button = new JButton("Submit");
 
 	//create labels for the window
-	JLabel title = new JLabel("Welcome to Carly's Cattering!");	
+	JLabel title = new JLabel("Welcome to Carly's Catering!");	
 
 	JLabel guestsLabel = new JLabel("Please Enter Number of Guests:");
 	JLabel mainCourseLabel = new JLabel("Select a Main Course Options:");
